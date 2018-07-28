@@ -15,7 +15,7 @@ class BookDetail extends Component {
         <div>Genre: {this.props.book.genre}</div>
         <div>Pages: {this.props.book.pages}</div>
         <div>
-          <a href={this.props.book.link}>
+          <a href={this.props.book.link} target='_blank'>
             <img src={this.props.book.image} className='img-thumbnail'/>
           </a>
         </div>
