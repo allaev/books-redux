@@ -5,6 +5,7 @@ Bookshelf app. Select a book to read information about it; click on the image to
 - React
 - Redux
 - react-redux
+- Bootstrap
 
 ### Getting Started
 
