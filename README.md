@@ -1,4 +1,10 @@
-# books-redux
+# books-redux ![CI status](https://img.shields.io/badge/style-flat-green.svg?longCache=true&style=flat) ![CI status](https://img.shields.io/badge/top%20language-Javascript-yellow.svg)
+
+Bookshelf app. Select a book to read information about it; click on the image to go to its Wikipedia page.
+
+- [React](https://github.com/facebook/react)
+- [Redux](https://github.com/reduxjs/redux)
+- [react-redux](https://github.com/reduxjs/react-redux)
 
 ### Getting Started
 
