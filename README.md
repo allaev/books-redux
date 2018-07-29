@@ -3,9 +3,11 @@
 Bookshelf app. Select a book to read information about it; click on the image to go to its Wikipedia page.
 
 - React
+- JSX
 - Redux
 - react-redux
 - Bootstrap
+- Node.js
 
 ### Getting Started
 
